@@ -4,4 +4,4 @@ When you need something simple of varying lengths, such as metal beams, and ther
 
 Name things clearly. 
 
-All parts of the robot that are not custom should be placed in CADLib.
+All parts of the robot that are not a custom sub-assemnbly should be placed in CADLib.
